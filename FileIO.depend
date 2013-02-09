@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1359701148 source:c:\users\nida\desktop\fileio\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1359679366 source:f:\algorith fio's\fileio-new\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1359680390 source:g:\algorith fio's\fileio-new\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1360114480 source:d:\mam nida files\program files\romzz programming\2ndyr-2ndsem\fileio-new\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
